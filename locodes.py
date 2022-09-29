@@ -1,4 +1,4 @@
-locode = {
+locodes = {
     "AD": {
         "ALV": "Andorra la Vella",
         "CAN": "Canillo",
